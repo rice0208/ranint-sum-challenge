@@ -33,3 +33,7 @@ The code can be written in any language (even Brainfuck or something else, only 
 Fork, make a new directory, and put your code in it to upload your code. Every time the code must be a new record, for example, if the current record of count is 1,000,000 in your place, your code must be more than 1,000,000. Of course you can write a language or better interpreter by yourself.
 
 Good luck.
+
+------
+
+If you have any question or suggestion for the game rules, create an [issue](https://github.com/rice0208/ranint-sum-challenge/issues).
